@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ধোপাবাড়ি</string>
+    <string name="title_activity_main">ধোপাবাড়ি</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ধোপাবাড়ি</string>
+    <string name="email">dhopabari@gamil.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_us"> আমাদের  ফোন  নাম্বার  ০১২৩৪৫৬৭৭৮৫ </string>
+    <string name="email_description">আমাদেরকে ইমেইল করুন </string>
+    <string name="our_service"> আমাদের সার্ভিস সমূহ হল</string>
+    <string name="our_offer"> আমাদের অফার সমূহ হম</string>
+    <string name="phn_number">01763706245</string>
+
+    <string-array name="display_notice">
+        <item>ধোপাবাড়িতে আপনাকে স্বাগতম</item>
+        <item>আমাদের সাথে যোগাযোগ করতে</item>
+        <item>ফোন করুন ০১৭৮২৩৪৫৩৫৮ নম্বরে</item>
+        <item>অথবা অনলাইনে অর্ডার করতে</item>
+        <item>নিচের বাটনটিতে ক্লিক করুন</item>
+    </string-array>
+</resources>

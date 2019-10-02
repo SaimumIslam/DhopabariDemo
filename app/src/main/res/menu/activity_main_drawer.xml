@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/our_service"
+            android:icon="@drawable/ic_menu_send"
+            android:title="আমাদের সেবা সমূহ" />
+        <item
+            android:id="@+id/our_offers"
+            android:icon="@drawable/ic_menu_send"
+            android:title="চলমান অফার সমূহ"/>
+        <item
+            android:id="@+id/our_address"
+            android:icon="@drawable/ic_menu_send"
+            android:title="যোগাযোগের ঠিকানা"/>
+    </group>
+
+    <item android:title="Application">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>
